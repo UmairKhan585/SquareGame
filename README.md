@@ -1,23 +1,39 @@
 Square Game
-A simple web project featuring interactive shapes (square, diamond, circle) with hover effects and basic CSS transformations.
+Overview
+Square Game is a minimal web project showcasing interactive shapes (square, diamond, and circle) with hover-based color transitions. The project uses HTML and CSS to demonstrate creative styling, including transformations like rotation and translation.
 
-Features
-Shapes change colors on hover:
-Square → Red
-Diamond → Green
-Circle → Blue
-Clean, responsive layout using Flexbox.
-Demonstrates CSS transformations like rotate, translate, and border-radius.
-How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/square-game.git
-Open index.html in a browser.
-Technologies Used
-HTML5
-CSS3
-"Every small project is a step toward building something great—keep coding!"
+Key Points
+Technologies Used:
 
-License
-This project is open-source under the MIT License.
+HTML5: For the structure of the web page.
+CSS3: For styling, hover effects, and transformations.
+Features:
+
+Square changes to red on hover.
+Diamond rotates, changes to green, and includes text adjustment.
+Circle changes to blue with a smooth hover effect.
+Shapes are responsive and centered using Flexbox.
+Important Information about the Project
+Overview
+This project demonstrates essential CSS properties like hover, rotate, translate, and border-radius. It's designed for beginners exploring creative layouts and interactive web elements.
+
+Key Points
+Hover Effects: Enhances interactivity by changing colors and rotations.
+Responsive Layout: Uses Flexbox to center elements dynamically.
+Code Simplicity: Well-structured HTML and CSS make it easy to understand and extend.
+Moving Forward
+This project can be expanded by:
+
+Adding more shapes with unique hover effects.
+Including animations using @keyframes for smoother transitions.
+Integrating JavaScript for advanced interactivity.
+Project Structure
+index.html: Main HTML file containing the structure of the shapes.
+style.css: CSS file for styling, hover effects, and layout management.
+Contributing
+Contributions are welcome! To propose changes, please fork the repository, make your changes, and submit a pull request.
+
+Author
+Umair Munir
+
+"Every small project takes you closer to mastery—keep experimenting!" 🚀
